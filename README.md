@@ -11,26 +11,22 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-<h3>Я стремлюсь:</h3>
-💻 Писать чистый и понятный код
-🛠 Работать с опытными коллегами и перенимать опыт
-📈 Наращивать свою производительность
-🤯 Осваивать новые фреймворки
+### Я стремлюсь:
+ 💻 Писать чистый и понятный код<br>
+ 🛠 Работать с опытными коллегами и перенимать опыт<br>
+ 📈 Наращивать свою производительность<br>
+ 🤯 Осваивать новые фреймворки<br>
 
 
 
 
-<!--
-**AlexFromNorth/AlexFromNorth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Контакты:
+<div>
+    <a href="https://t.me/jacklex_x">
+    <img src="https://img.icons8.com/3d-fluency/94/null/telegram.png" style="width: 50px";>
+    </a>
+    <a href="https://vk.com/id93906739">
+    <img src="https://img.icons8.com/3d-fluency/94/null/vk-circled.png" style="width: 50px">
+    </a>   
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
