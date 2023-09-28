@@ -1,7 +1,7 @@
 <h1 align="center">Привет, меня зовут Александр
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
-<h3 align="center">Frontend-разработчик из Ростова-на-Дону</h3>
+<h3 align="center">Frontend-разработчик</h3>
 
 ### :man_technologist: Обо мне:
 
