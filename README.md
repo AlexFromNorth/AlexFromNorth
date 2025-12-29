@@ -1,11 +1,11 @@
 <h1 align="center">Привет, меня зовут Александр.
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
-<h3 align="center">Frontend-разработчик</h3>
+<h3 align="center">Fullstack-разработчик</h3>
 
 ### :man_technologist: Обо мне:
 
-Я интересуюсь различными веб-технологиями, прокачиваю свой скилл во фронтенд-разработке. Работал в офисе и на фрилансе. Обучал студентов веб-разработке. 👀
+Специализируюсь на современных веб-технологиях, уделяю особое внимание качеству кода и пользовательскому опыту. Имею опыт менторства и преподавания веб-разработки студентам. Постоянно изучаю новые инструменты и подходы для создания эффективных, отказоустойчивых и масштабируемых приложений. 👨‍💻
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
@@ -94,8 +94,3 @@
 ![Bitrix24](https://img.shields.io/badge/Bitrix24-00A2E8?style=for-the-badge&logo=bitrix&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
 ![uCoz](https://img.shields.io/badge/uCoz-0080FF?style=for-the-badge&logo=ucoz&logoColor=white)
-
-### 💻 Статистика:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexFromNorth&layout=compact)](https://github.com/AlexFromNorth/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexFromNorth&layout=compact)](https://github.com/AlexFromNorth/github-readme-stats)
