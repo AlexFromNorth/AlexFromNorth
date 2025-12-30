@@ -17,9 +17,6 @@
     <a href="https://t.me/jacklex_x">
         <img src="https://img.icons8.com/3d-fluency/94/null/telegram.png" style="width: 50px";>
     </a>
-    <a href="https://vk.com/id93906739">
-        <img src="https://img.icons8.com/3d-fluency/94/null/vk-circled.png" style="width: 50px">
-    </a>   
 </div>
 
 ### 💻 Codewars:
